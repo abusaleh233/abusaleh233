@@ -42,7 +42,7 @@ My goal is to create clean, efficient, and scalable web solutions.
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/abusaleh233" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">

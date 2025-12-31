@@ -66,7 +66,7 @@ My goal is to create clean, efficient, and scalable web solutions.
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         
-          <img align="center" src="https://i.ibb.co.com/byf7mT3/status.jpg" />
+         <img src="https://i.ibb.co.com/byf7mT3/status.jpg" alt="GitHub statys" />
       
       </p>
     </td>

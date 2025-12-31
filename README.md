@@ -57,7 +57,7 @@ My goal is to create clean, efficient, and scalable web solutions.
 
 ---
 
-<!--Github stats Table--> 
+<!-- Github stats Table -->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -65,14 +65,13 @@ My goal is to create clean, efficient, and scalable web solutions.
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        
-         <img src="https://i.ibb.co/byf7mT3/status.jpg" alt="GitHub statys" />
-      
+        <img src="https://i.ibb.co/byf7mT3/status.jpg" alt="GitHub stats" />
       </p>
     </td>
   </tr>
- 
 </table>
+
 <br />
+
 
 

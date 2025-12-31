@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://www.canva.com/design/DAG9EMu9BL8/KcVRIUQXNoHXw8LfiU3ueQ/view?utm_content=DAG9EMu9BL8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h37beb0d715 alt="GitHub Banner" />
+<img src="https://i.ibb.co/9VwZp2f/github-banner.png" alt="GitHub Banner" />
 
 <h1 align="center">I'm Saleh Ahmad</h1>
 <h3 align="center">Frontend Web Developer</h3>

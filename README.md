@@ -1,8 +1,9 @@
 <!-- Banner -->
-<img src="https://chatgpt.com/s/m_6954e52113f081919b9e531d23a1873d alt="GitHub Banner" />
+<img src="https://i.ibb.co/7643hdn/githubcover.jpg" alt="GitHub Banner" />
 
 <h1 align="center">I'm Saleh Ahmad</h1>
 <h3 align="center">Frontend Web Developer</h3>
+
 
 ---
 

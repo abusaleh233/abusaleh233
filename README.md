@@ -66,16 +66,8 @@ My goal is to create clean, efficient, and scalable web solutions.
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         
-         <img src="https://i.ibb.co.com/byf7mT3/status.jpg" alt="GitHub statys" />
+         <img src="https://i.ibb.co/byf7mT3/status.jpg" alt="GitHub statys" />
       
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-       
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-       
       </p>
     </td>
   </tr>

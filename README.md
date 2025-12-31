@@ -52,7 +52,7 @@ My goal is to create clean, efficient, and scalable web solutions.
 
 📍 Location: Bangladesh,Dhaka,jatrabari  
 📧 Email: abusaleh233@gmail.com  
-📞 Contact:** +8801940-189750
+📞 Contact: +8801940-189750
 
 
 ---
@@ -73,9 +73,3 @@ My goal is to create clean, efficient, and scalable web solutions.
 
 ---
 
-## 📌 Pinned Projects
-👉 Check my pinned repositories below to see my best frontend projects showcasing real-world applications, clean UI, and modern technologies.
-
----
-
-⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*

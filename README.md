@@ -1,16 +1,80 @@
-## Hi there 👋
+<!-- Banner -->
+<img src="https://www.canva.com/design/DAG9EMu9BL8/KcVRIUQXNoHXw8LfiU3ueQ/view?utm_content=DAG9EMu9BL8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h37beb0d715 alt="GitHub Banner" />
+
+<h1 align="center">I'm Saleh Ahmad</h1>
+<h3 align="center">Frontend Web Developer</h3>
+
+---
+
+## 👨‍💻 About Me
+I am a passionate Frontend Web Developer who loves building responsive, user-friendly web applications.  
+I enjoy learning modern web technologies and continuously improving my problem-solving skills.  
+My goal is to create clean, efficient, and scalable web solutions.
+
+---
+
+## 🚀 Current Activities
+- 🌱 I am exploring **Next.js**
+- 💻 I’m working on a **tourism-based web application**
+- 📚 Practicing problem-solving and improving frontend performance
+
+---
+
+## 🛠️ Skills
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+📍 Location: Bangladesh,Dhaka,jatrabari  
+📧 Email: abusaleh233@gmail.com  
+📞 Contact:** +8801940-189750
 
 
-**abusaleh233/abusaleh233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" />
+</p>
+
+---
+
+## 📌 Pinned Projects
+👉 Check my pinned repositories below to see my best frontend projects showcasing real-world applications, clean UI, and modern technologies.
+
+---
+
+⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*

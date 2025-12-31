@@ -45,7 +45,7 @@ My goal is to create clean, efficient, and scalable web solutions.
   <a href="https://github.com/abusaleh233" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/saleh-ahmad-8574443a2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>

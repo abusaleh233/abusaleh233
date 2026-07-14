@@ -1,10 +1,4 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/7643hdn/githubcover.jpg" alt="GitHub Banner" />
-
-<h1 align="center">I'm Saleh Ahmad</h1>
-<h3 align="center">Full Stack Developer</h3>
------------------------------------------
-<!-- Banner -->
 <p align="center">
   <img src="https://i.ibb.co/7643hdn/githubcover.jpg" alt="GitHub Banner" width="100%" />
 </p>

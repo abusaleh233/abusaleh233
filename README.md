@@ -78,10 +78,7 @@ My goal is to create clean, efficient, and scalable web solutions.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abusaleh233&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusaleh233&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=abusaleh233&theme=tokyonight&hide_border=true"/>
@@ -91,9 +88,7 @@ My goal is to create clean, efficient, and scalable web solutions.
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abusaleh233&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abusaleh233&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abusaleh233&style=for-the-badge&color=blue"/>

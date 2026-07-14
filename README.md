@@ -2,7 +2,34 @@
 <img src="https://i.ibb.co/7643hdn/githubcover.jpg" alt="GitHub Banner" />
 
 <h1 align="center">I'm Saleh Ahmad</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
+-----------------------------------------
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/7643hdn/githubcover.jpg" alt="GitHub Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#0A66C2;">Saleh Ahmad</span>
+</h1>
+
+<h3 align="center">
+  💻 Full Stack Developer | 🚀 Passionate Web Developer | 🌱 Always Learning
+</h3>
+
+<p align="center">
+  I enjoy building modern, responsive, and scalable web applications using
+  <strong>Next.js</strong>, <strong>React</strong>, <strong>Node.js</strong>,
+  <strong>Express.js</strong>, <strong>TypeScript</strong>,
+  <strong>Prisma</strong>, and <strong>PostgreSQL</strong>.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+Prisma;Always+Learning+New+Technologies" />
+</p>
+
+
+
 
 
 ---
@@ -15,7 +42,7 @@ My goal is to create clean, efficient, and scalable web solutions.
 ---
 
 ## 🚀 Current Activities
-- 🌱 I am exploring **Next.js**
+- 🌱 I am exploring **Docker**
 - 💻 I’m working on a **tourism-based web application**
 - 📚 Practicing problem-solving and improving frontend performance
 

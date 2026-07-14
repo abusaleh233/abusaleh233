@@ -78,13 +78,28 @@ My goal is to create clean, efficient, and scalable web solutions.
 
 ## 📊 GitHub Stats  
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+## 📈 GitHub Stats
 
----
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abusaleh233&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusaleh233&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=abusaleh233&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abusaleh233&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abusaleh233&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abusaleh233&style=for-the-badge&color=blue"/>
+</p>
 
 
 

@@ -19,26 +19,6 @@ My goal is to create clean, efficient, and scalable web solutions.
 - 💻 I’m working on a **tourism-based web application**
 - 📚 Practicing problem-solving and improving frontend performance
 
----
-
-## 🛠️ Skills
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
-</p>
-
----
 
 ## 🛠️ Tech Stack  
 
@@ -59,38 +39,25 @@ My goal is to create clean, efficient, and scalable web solutions.
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://github.com/abusaleh233" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/saleh-ahmad-8574443a2/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+## 🌐 Connect With Me  
 
-📍 Location: Bangladesh,Dhaka,jatrabari  
-📧 Email: abusaleh233@gmail.com  
-📞 Contact: +8801940-189750
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saleh-ahmad-8574443a2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://eloquent-cucurucho-4bf1c6.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:abusaleh233@gmail.com)
 
 
 ---
 
-<!-- Github stats Table -->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+## 📊 GitHub Stats  
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <img src="https://i.ibb.co/byf7mT3/status.jpg" alt="GitHub stats" />
-      </p>
-    </td>
-  </tr>
-</table>
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
 
-<br />
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
 
 
 

@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#0A66C2;">Saleh Ahmad</span>
+  I'm <span style="color:#0A66C2;">Saleh Ahmad</span>
 </h1>
 
 <h3 align="center">

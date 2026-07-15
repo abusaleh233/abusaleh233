@@ -93,7 +93,10 @@ My goal is to create clean, efficient, and scalable web solutions.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abusaleh233&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abusaleh233&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abusaleh233&style=for-the-badge"/>
 </p>
 
 

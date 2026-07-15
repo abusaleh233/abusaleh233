@@ -92,13 +92,6 @@ My goal is to create clean, efficient, and scalable web solutions.
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abusaleh233&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abusaleh233&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abusaleh233&style=for-the-badge"/>
-</p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abusaleh233&style=for-the-badge&color=blue"/>

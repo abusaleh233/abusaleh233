@@ -92,6 +92,9 @@ My goal is to create clean, efficient, and scalable web solutions.
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abusaleh233&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abusaleh233&theme=tokyonight&hide_border=true" />
+</p>
 
 
 <p align="center">

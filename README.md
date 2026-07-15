@@ -98,18 +98,10 @@ My goal is to create clean, efficient, and scalable web solutions.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abusaleh233&theme=tokyo-night" />
 </p>
-## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abusaleh233&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abusaleh233&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abusaleh233&style=for-the-badge" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abusaleh233&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abusaleh233&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
